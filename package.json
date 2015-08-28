@@ -1,0 +1,15 @@
+{
+  "name": "@djangoclouds/how-to-npm",
+  "version": "1.0.0",
+  "description": "Alan's test package for the how-to-npm tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "how-to-npm"
+  ],
+  "author": "Alan Smewing",
+  "license": "ISC",
+  "repository": "https://github.com/DjangoClouds/how-to-npm.git"
+}
