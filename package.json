@@ -1,6 +1,6 @@
 {
   "name": "@djangoclouds/how-to-npm",
-  "version": "1.1.1",
+  "version": "1.2.3",
   "description": "Alan's test package for the how-to-npm tutorial.",
   "main": "index.js",
   "scripts": {
